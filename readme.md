@@ -45,7 +45,7 @@ instance               | provides configuration & markup for views
 
 ## Usage
 
-```
+```javascript
 
 import searchViewFactory from './search'
 
