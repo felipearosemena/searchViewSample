@@ -1,5 +1,5 @@
 
-#Search View Component Example
+# Search View Component Example
 
 **Live examples:**
 http://tides.org (Global Search in Main Nav)
