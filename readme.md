@@ -2,8 +2,9 @@
 # Search View Component Example
 
 **Live examples:**
-http://tides.org (Global Search in Main Nav)
-https://www.tides.org/impact-partners/explore-our-partners/
+
+- http://tides.org (Global Search in Main Nav)
+- https://www.tides.org/impact-partners/explore-our-partners/
 
 Allows to have multiple, independent results listings, each being
 by it's own REST endpoint. In the example URL, the search has 2 views, on
