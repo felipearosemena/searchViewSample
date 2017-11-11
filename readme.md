@@ -28,7 +28,7 @@ This Search View component is designed to be used together with the WP-REST API
 - Infinite scroll loading
 
 This component & it's dependencies manage object creation via factory
-function & object extension via composition (Object `mixins`).
+functions & object extension via composition (Object `mixins`).
 
 ## Simplified model of the component architecture:
 
