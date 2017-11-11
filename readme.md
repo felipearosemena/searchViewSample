@@ -50,7 +50,7 @@ instance               | provides configuration & markup for views
 import searchViewFactory from './search'
 
 function itemTemplate(post) {
-  return <div>${ post.title.rendered }</div>
+  return `<div>${ post.title.rendered }</div>`
 }
 
 const searchViewEl = document.querySelector('#search-view')
