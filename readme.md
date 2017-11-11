@@ -24,7 +24,7 @@ This Search View component is designed to be used together with the WP-REST API
 - Pagination
 - Taxonomy queries
 - Debounced search-as-you-type functionality
-- Setting queryies via URL string on load
+- Setting queries via URL string on load
 - Infinite scroll loading
 
 This component & it's dependencies manage object creation via factory
